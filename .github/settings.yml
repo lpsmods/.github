@@ -2,7 +2,7 @@ repository:
   has_wiki: false
 
 labels:
-  - name: triage-needed
+  - name: triage needed
     color: FBCA04
 
   # status
