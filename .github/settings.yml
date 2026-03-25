@@ -1,0 +1,40 @@
+repository:
+  has_wiki: false
+
+labels:
+  - name: triage-needed
+    color: FBCA04
+
+  # status
+
+  - name: "status: can't reproduce"
+    color: FEC1C1
+
+  - name: "status: confirmed"
+    color: 215CEA
+
+  - name: duplicate
+    new_name: "status: duplicate"
+    color: CFD3D7
+
+  - name: question
+    new_name: "status: needs information"
+    color: FEF2C0
+
+  - name: wontfix
+    new_name: "status: wont do/fix"
+    color: eeeeee
+
+  # priority
+
+  - name: "priority: critical"
+    color: B60205
+
+  - name: "priority: high"
+    color: D93F0B
+
+  - name: "priority: low"
+    color: 0E8A16
+
+  - name: "priority: medium"
+    color: FBCA04
